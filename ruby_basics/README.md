@@ -15,7 +15,7 @@ These exercises are designed to compliment the [Ruby Basic lessons](https://www.
 
 #### 1.Basic Data Types
 
-- [ ] Numbers Exercises 
+- [X] Numbers Exercises 
 - [ ] Strings Exercises 
 
 #### 6.Arrays
